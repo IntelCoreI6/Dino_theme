@@ -1,4 +1,7 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# Dino Theme
+
+***T-rex*** who only eats KFC dino wings
