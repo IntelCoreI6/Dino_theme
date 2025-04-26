@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Dino-theme
+description: "A theme exclusive for T-rex surfing the web"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
